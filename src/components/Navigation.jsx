@@ -29,7 +29,7 @@ export default function Navbar(props) {
                                 `${props.transparent
                                     ? "lg:text-white lg:hover:text-gray-300 text-gray-800" : "text-gray-800 hover:text-gray-600"}`}
                                 href="#home">
-                                <NavbarHeading transparent={props.transparent} name={"NNN"} />
+                                <NavbarHeading transparent={props.transparent} name={"Home"} />
                             </a>
                         </li>
                         <li className="flex items-center">
