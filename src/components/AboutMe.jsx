@@ -15,7 +15,7 @@ export default function AboutMe() {
                         </div>
                         <div className="flex flex-wrap items-start flex-col space-y-2 mt-2">
                             <div className="mx-auto md:mx-0">
-                                <h1 className="text-4xl font-Cormorant font-thin">Lidiaa Plotkina</h1>
+                                <h1 className="text-4xl font-Cormorant font-thin">Lidia Plotkina</h1>
                             </div>
                             <div>
                                 <h2 className =" text-2xl font-Cormorant font-thin">Coaching Niche(s): Developmental Coaching</h2>
