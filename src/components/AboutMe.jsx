@@ -13,7 +13,7 @@ export default function AboutMe() {
                         <div className = "w-full md:w-4/12 ml-auto mr-auto px-4">
                             <img src={aboutMeImage} alt="" className="max-w-full rounded-lg shadow-lg" />
                         </div>
-                        <div className="flex flex-wrap items-start flex-col space-y-2">
+                        <div className="flex flex-wrap items-start flex-col space-y-2 mt-2">
                             <div>
                                 <h1 className="text-4xl font-Cormorant font-thin">Lidia Plotkina</h1>
                             </div>
