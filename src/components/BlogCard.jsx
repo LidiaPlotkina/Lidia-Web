@@ -5,7 +5,7 @@ import React from "react";
 export default function BlogCard(props) {
     return (
         <>
-            <div className="container w-80 mx-auto my-3.5 bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transform hover:scale-125 duration-500">
+            <div className="container w-80 mx-auto my-3.5 bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transform md:hover:scale-125 duration-500">
                 <img className="w-full transform hover:opacity-75" src={props.image} alt=""/>
                 <div className="text-center relative py-14">
                     <span className="absolute transform -translate-x-10 -translate-y-24 z-50 text-green-500 bg-white rounded-full hover:text-green-400 transition-all duration-200 cursor-pointer">
