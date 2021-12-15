@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Lidia-Web/static/css/main.f234138d.chunk.css",
-    "main.js": "/Lidia-Web/static/js/main.c1a964eb.chunk.js",
-    "main.js.map": "/Lidia-Web/static/js/main.c1a964eb.chunk.js.map",
+    "main.js": "/Lidia-Web/static/js/main.cc4be0aa.chunk.js",
+    "main.js.map": "/Lidia-Web/static/js/main.cc4be0aa.chunk.js.map",
     "runtime-main.js": "/Lidia-Web/static/js/runtime-main.cacac684.js",
     "runtime-main.js.map": "/Lidia-Web/static/js/runtime-main.cacac684.js.map",
     "static/js/2.7055b9b8.chunk.js": "/Lidia-Web/static/js/2.7055b9b8.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.cacac684.js",
     "static/js/2.7055b9b8.chunk.js",
     "static/css/main.f234138d.chunk.css",
-    "static/js/main.c1a964eb.chunk.js"
+    "static/js/main.cc4be0aa.chunk.js"
   ]
 }
