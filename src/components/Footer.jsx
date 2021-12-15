@@ -41,16 +41,19 @@ export default function Footer() {
                         <div className="w-full lg:w-4/12 px-4 py-6 lg:py-0 lg:text-right">
                             <ul className="list-unstyled">
                                 <li>
-                                    <a href="#" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">Home</a>
+                                    <a href="#home" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">Home</a>
                                 </li>
                                 <li>
-                                    <a href="#" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">About Me</a>
+                                    <a href="#about-me" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">About Me</a>
                                 </li>
                                 <li>
-                                    <a href="#" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">Booking</a>
+                                    <a href="#blog-section" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">Credentials</a>
                                 </li>
                                 <li>
-                                    <a href="#" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">Contact</a>
+                                    <a href="#carousel-section" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">My Work</a>
+                                </li>
+                                <li>
+                                    <a href="#contact-me" className = "text-gray-700 hover:text-gray-900 text-lg uppercase font-Cormorant font-normal block pb-2">Contact</a>
                                 </li>
                             </ul>
                         </div>
