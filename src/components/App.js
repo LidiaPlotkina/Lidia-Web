@@ -4,6 +4,8 @@ import Navbar from "./Navigation";
 import BackGroundCover from "./backGroundCover";
 import AboutMe from "./AboutMe";
 import BlogSection from "./BlogSection";
+import CarouselSection from "./CarouselSection";
+
 function App() {
   return (
     <div>
@@ -15,6 +17,7 @@ function App() {
         </div>
         <AboutMe />
         <BlogSection />
+        <CarouselSection/>
         <Footer />
       </main>
     </div>

@@ -45,7 +45,15 @@ export default function Navbar(props) {
                                 `${props.transparent
                                     ? "lg:text-white lg:hover:text-gray-300 text-gray-800" : "text-gray-800 hover:text-gray-600"}`}
                                 href="#blog-section">
-                                <NavbarHeading transparent={props.transparent} name={"Booking"} />
+                                <NavbarHeading transparent={props.transparent} name={"Credentials"} />
+                            </a>
+                        </li>
+                        <li className="flex items-center">
+                            <a className={
+                                `${props.transparent
+                                    ? "lg:text-white lg:hover:text-gray-300 text-gray-800" : "text-gray-800 hover:text-gray-600"}`}
+                                href="#carousel-section">
+                                <NavbarHeading transparent={props.transparent} name={"My Work"} />
                             </a>
                         </li>
                         <li className="flex items-center">

@@ -8,7 +8,7 @@ import { faPhone } from '@fortawesome/free-solid-svg-icons';
 export default function Footer() {
     return (
         <>
-            <footer className="relative bg-gray-300 pt-8 pb-6">
+            <footer className="relative bg-gray-300 pt-8 pb-6" id="contact-me">
                 <div className="container mx-auto px-4">
                     <div className="flex flex-wrap justify-between">
                         <div className="w-full px-4 lg:w-6/12">

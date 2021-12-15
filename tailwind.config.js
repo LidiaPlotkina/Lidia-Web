@@ -1,10 +1,18 @@
 const colors = require('tailwindcss/colors')
 const defaultTheme = require('tailwindcss/defaultTheme')
 
+
 module.exports = {
   purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
   darkMode: false, // or 'media' or 'class'
   theme: {
+    textIndent: { // defaults to {}
+      '1': '0.25rem',
+      '2': '0.5rem',
+      '2.5': '0.625rem',
+      '3': '0.75rem',
+      '12':'3rem',
+    },
     screens: {
       'xs': '475px',
       ...defaultTheme.screens,
@@ -18,6 +26,9 @@ module.exports = {
           dark: '#009eeb',
         },
       },
+      spacing: {
+        '144': '48rem',
+      },
       fontFamily: {
         Cormorant: "'Cormorant Garamond', serif",
         Montserrat: "'Montserrat', sans-serif;"
@@ -25,7 +36,10 @@ module.exports = {
     },
   },
   variants: {
+    textIndent: ['responsive'],
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss-typography')(),
+  ],
 }
