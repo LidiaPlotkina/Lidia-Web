@@ -12,7 +12,7 @@ export default function Footer() {
                 <div className="container mx-auto px-4">
                     <div className="flex flex-wrap justify-between">
                         <div className="w-full px-4 lg:w-6/12">
-                            <h4 className="text-4xl font-Cormorant font-thin">Let's Keep in touch!</h4>
+                            <h4 className="text-4xl font-Cormorant font-thin">Let's Keep in Touch!</h4>
                             <h5 className="text-xl font-Cormorant font-normal mt-0 mb-2 text-gray-700">Follow me on my Social Media</h5>
                             <div className="mt-6">
                                 <a href="https://www.instagram.com/coachlidia/?hl=ru">
