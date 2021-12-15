@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/Lidia-Web/static/css/main.00965e8f.chunk.css",
-    "main.js": "/Lidia-Web/static/js/main.2cb1bc71.chunk.js",
-    "main.js.map": "/Lidia-Web/static/js/main.2cb1bc71.chunk.js.map",
+    "main.css": "/Lidia-Web/static/css/main.f234138d.chunk.css",
+    "main.js": "/Lidia-Web/static/js/main.c1a964eb.chunk.js",
+    "main.js.map": "/Lidia-Web/static/js/main.c1a964eb.chunk.js.map",
     "runtime-main.js": "/Lidia-Web/static/js/runtime-main.cacac684.js",
     "runtime-main.js.map": "/Lidia-Web/static/js/runtime-main.cacac684.js.map",
-    "static/js/2.347fbe3a.chunk.js": "/Lidia-Web/static/js/2.347fbe3a.chunk.js",
-    "static/js/2.347fbe3a.chunk.js.map": "/Lidia-Web/static/js/2.347fbe3a.chunk.js.map",
+    "static/js/2.7055b9b8.chunk.js": "/Lidia-Web/static/js/2.7055b9b8.chunk.js",
+    "static/js/2.7055b9b8.chunk.js.map": "/Lidia-Web/static/js/2.7055b9b8.chunk.js.map",
     "index.html": "/Lidia-Web/index.html",
-    "static/css/main.00965e8f.chunk.css.map": "/Lidia-Web/static/css/main.00965e8f.chunk.css.map",
-    "static/js/2.347fbe3a.chunk.js.LICENSE.txt": "/Lidia-Web/static/js/2.347fbe3a.chunk.js.LICENSE.txt",
+    "static/css/main.f234138d.chunk.css.map": "/Lidia-Web/static/css/main.f234138d.chunk.css.map",
+    "static/js/2.7055b9b8.chunk.js.LICENSE.txt": "/Lidia-Web/static/js/2.7055b9b8.chunk.js.LICENSE.txt",
     "static/media/aboutMe.de35081b.jpeg": "/Lidia-Web/static/media/aboutMe.de35081b.jpeg",
     "static/media/cover.30df12e5.jpeg": "/Lidia-Web/static/media/cover.30df12e5.jpeg",
-    "static/media/post_1.19fe0495.jpeg": "/Lidia-Web/static/media/post_1.19fe0495.jpeg",
-    "static/media/post_2.98730f83.jpeg": "/Lidia-Web/static/media/post_2.98730f83.jpeg"
+    "static/media/img_1.7a609c8e.jpeg": "/Lidia-Web/static/media/img_1.7a609c8e.jpeg",
+    "static/media/img_2.696bddc4.jpg": "/Lidia-Web/static/media/img_2.696bddc4.jpg",
+    "static/media/img_3.c449ad63.jpg": "/Lidia-Web/static/media/img_3.c449ad63.jpg",
+    "static/media/img_4.59643be3.PNG": "/Lidia-Web/static/media/img_4.59643be3.PNG",
+    "static/media/img_5.5de68d6c.jpeg": "/Lidia-Web/static/media/img_5.5de68d6c.jpeg",
+    "static/media/img_6.7e168d93.png": "/Lidia-Web/static/media/img_6.7e168d93.png",
+    "static/media/img_7.796f79c0.jpg": "/Lidia-Web/static/media/img_7.796f79c0.jpg",
+    "static/media/img_8.dbc9e38c.jpg": "/Lidia-Web/static/media/img_8.dbc9e38c.jpg",
+    "static/media/post_1.af864aaa.jpg": "/Lidia-Web/static/media/post_1.af864aaa.jpg",
+    "static/media/post_2.98730f83.jpeg": "/Lidia-Web/static/media/post_2.98730f83.jpeg",
+    "static/media/post_3.1655eead.jpg": "/Lidia-Web/static/media/post_3.1655eead.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cacac684.js",
-    "static/js/2.347fbe3a.chunk.js",
-    "static/css/main.00965e8f.chunk.css",
-    "static/js/main.2cb1bc71.chunk.js"
+    "static/js/2.7055b9b8.chunk.js",
+    "static/css/main.f234138d.chunk.css",
+    "static/js/main.c1a964eb.chunk.js"
   ]
 }
