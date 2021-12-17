@@ -11,7 +11,7 @@ function App() {
     <div>
       <Navbar transparent={true} />
       <main>
-        <div className="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen" id="home">
+        <div className="relative flex content-center items-center justify-center min-h-screen" id="home">
           <BackGroundCover />
         </div>
         <AboutMe />
